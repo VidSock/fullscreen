@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: Travel / Adventure Photography
-tagline: Over every hill is another photograph
+title: Local Professional Photography
+tagline: Capturing Moments of Your Life to Cherish Forever
 youtube: vWNkRK6-oU4
 featuredImage: /assets/4B4A9560.jpg
 cta:
@@ -10,7 +10,14 @@ cta:
   ctaLink: https://twilightscapes.com
 ---
 
-Hi, I'm Todd and I'm a travel photographer.
+Hi, I'm Todd and I'm a photographer who turned into a web geek who turned back into a photographer.
+
+In doing so, I've learned to meld the technical side of things along with the more creative aspects. This unique situation allows for me to really understand the details and requirements each entails.
+
+I've strived to bring the power of simple, fast and flexible websites with features that are designed for photographers. They are designed for photographers by a photographer.
+
+
+<blockquote>This sample site is designed to show the different elements available to you to choose from and how they can be incorporated onto your own site. </blockquote>
 
 
 

@@ -5,6 +5,7 @@ import { graphql, Link } from "gatsby"
 import { RiArrowRightSLine } from "react-icons/ri"
 // import Intro2 from '../components/Intro2'
 import { Helmet } from "react-helmet"
+import FeaturedGallery from "../components/featured-galleries"
 import Newsignup from "../components/newssign"
 // import ShareSocial from '../components/share' 
 import styled from "styled-components"
@@ -182,6 +183,14 @@ const HomePage = ({ data }) => {
 </div>
 
       
+
+<div style={{padding:'2rem 3%'}}>
+<FeaturedGallery />
+</div>
+
+<div style={{padding:'2rem 3%'}}>
+        <BlogListHome data={posts} />
+        </div>
       
 
         

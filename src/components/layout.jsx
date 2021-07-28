@@ -303,7 +303,7 @@ Contact Me<span>Ordering Questions?</span>
       {/* <br /><br /> */}
       {/* <Consent /> */}
      {/* <Install /> */}
-      {/* <Footer /> */}
+      <Footer />
       
       </>
     </div>
