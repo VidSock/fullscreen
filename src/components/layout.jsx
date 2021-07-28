@@ -87,7 +87,7 @@ export function Layout({ children }) {
 
 
       <input type="checkbox" className="openSidebarMenu" id="openSidebarMenu" />
-  <label id="menuicon" htmlFor="openSidebarMenu" className="sidebarIconToggle" style={{display:'none'}}>
+  <label id="menuicon" htmlFor="openSidebarMenu" className="sidebarIconToggle" style={{display:''}}>
 
   {/* <div className="cornertext" style={{textShadow:'2px', color:'#fff',}}>
   <IoMdFingerPrint style={{fontSize:'50px', }}/>
