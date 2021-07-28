@@ -58,7 +58,7 @@ const CaseStudyPanels = () => (
 
   <div className="outerpanel" style={{borderLeft:'none',}}>
 
-<span className="headline" style={{bottom:'35vh'}}>On Location</span>
+<span className="headline" style={{bottom:'35vh'}}>Crazy Locations!</span>
       <div className="innerpanel" style={{height:'100%', width:'100%'}}>
       
           <div className="contentpanel" style={{position:'relative', zIndex:'1', color:'#fff'}}>
@@ -74,7 +74,7 @@ const CaseStudyPanels = () => (
 
 <div className="spacer66" style={{height:'20vh'}} />
 
-          <h2 className="letter" style={{fontSize:'3vw', margin:'0 0 2rem 0'}}>On Location at your Destination</h2>
+          <h2 className="letter" style={{fontSize:'3vw', margin:'0 0 2rem 0'}}>Crazy Locations! Where We've been lately</h2>
 
           <p className="letter">If you're buyin', I'm flyin' </p>
 
@@ -106,7 +106,7 @@ const CaseStudyPanels = () => (
         
         
     </div>
-    <StaticImage src="../../static/assets/dmitry-schemelev-OEnKKXvdbDU-unsplash.jpg" alt="Twilightscapes" className="popp" />
+    <StaticImage src="../../static/assets/2011-12-29-canyonlands-41762.jpg" alt="Twilightscapes" className="popp" />
 
  </div>
 
@@ -126,7 +126,7 @@ const CaseStudyPanels = () => (
 
  <div className="outerpanel" style={{borderLeft:'none'}}>
 
-<span className="headline" style={{bottom:'35vh'}}>Weddings/Ceremonies </span>
+<span className="headline" style={{bottom:'35vh'}}>Our Campsites </span>
       <div className="innerpanel" style={{height:'100%', width:'100%'}}>
       
           <div className="contentpanel" style={{position:'relative', zIndex:'1', color:'#fff'}}>
@@ -142,9 +142,9 @@ const CaseStudyPanels = () => (
 
 <div className="spacer66" style={{height:'20vh'}} />
 
-          <h2 className="letter" style={{fontSize:'3vw', margin:'0 0 2rem 0'}}>Elegantly Yours Forever</h2>
+          <h2 className="letter" style={{fontSize:'3vw', margin:'0 0 2rem 0'}}>All of our campsites documented</h2>
 
-          <p className="letter">And after the cake is cut and all the guests have gone there won't be a bill from me - because you've already paid up front!
+          <p className="letter">We've documented each nights location and camp spots. See where we've been and how we did it.
 </p>
 
 
@@ -176,7 +176,7 @@ const CaseStudyPanels = () => (
         
         
     </div>
-    <StaticImage src="../../static/assets/nathan-dumlao-5BB_atDT4oA-unsplash.jpg" alt="Twilightscapes" className="pop" />
+    <StaticImage src="../../static/assets/2011-12-28-camplapse-38765 - Version 2.jpg" alt="Twilightscapes" className="pop" />
 
  </div>
 
@@ -193,10 +193,10 @@ const CaseStudyPanels = () => (
 
  <div className="outerpanel" style={{borderLeft:'none'}}>
 
-<span className="headline" style={{bottom:'35vh'}}>Engagements</span>
+<span className="headline" style={{bottom:'35vh'}}>Outakes</span>
       <div className="innerpanel" style={{height:'100%', width:'100%'}}>
       
-          <div className="contentpanel" style={{position:'relative', zIndex:'1', color:'#fff'}}>
+          <div className="contentpanel" style={{position:'relative', zIndex:'1', color:'#fff', padding:'0 2rem'}}>
           
           
 
@@ -208,7 +208,7 @@ const CaseStudyPanels = () => (
 </div> */}
 
 <div className="spacer66" style={{height:'20vh'}} />
-          <h2 className="letter" style={{fontSize:'3vw', margin:'0 0 2rem 0'}}>After a long night, it's Amore´</h2>
+          <h2 className="letter" style={{fontSize:'3vw', margin:'0 0 2rem 0'}}>Outakes and life on the road</h2>
 
           <p className="letter">Just one parting piece of advice, remember... that 3am run for TacoBell isn't going to end well. </p>
 
@@ -234,7 +234,7 @@ const CaseStudyPanels = () => (
         
         
     </div>
-    <StaticImage src="../../static/assets/nick-karvounis-8WODX7nO2JE-unsplash.jpg" alt="Twilightscapes" className="pop" />
+    <StaticImage src="../../static/assets/IMG_0513.jpg" alt="Twilightscapes" className="pop" />
 
  </div>
 

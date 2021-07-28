@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: Summer Portraits are HERE!
+title: On the road with my dog Montana
 slug: /third-post
 date: 2021-07-22 11:37
-description: "Yeah, it's summer time!"
-featuredImage: /assets/4B4A9391.jpg
+description: "On the road with my dog Montana"
+featuredImage: /assets/IMG_0080.jpg
 ---
 
 ## Summertime, and the livin's easy

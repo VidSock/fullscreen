@@ -106,7 +106,7 @@ const PostMaker = ({ data }) => (
 
 
 <h2 style={{fontSize:'150%', marginBottom:'1rem'}}>
-      Latest <strong>Shoots</strong>{" "}
+      Latest <strong>Posts</strong>{" "}
       <span className="icon -right">
         <RiArrowDownLine />
       </span>

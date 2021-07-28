@@ -7,10 +7,11 @@ import { RiArrowRightSLine } from "react-icons/ri"
 import { Helmet } from "react-helmet"
 import FeaturedGallery from "../components/featured-galleries"
 import Newsignup from "../components/newssign"
+import ScrollAnimation from 'react-animate-on-scroll'
 // import ShareSocial from '../components/share' 
 import styled from "styled-components"
 import { AiOutlinePicture } from "react-icons/ai"
-// import ScrollAnimation from 'react-animate-on-scroll'
+
 // import Trumpy from '../../static/assets/trump-family-board.svg'
 // import Gearbox from "../components/gearbox"
 import BlogListHome from "../components/blog-list-home"
@@ -157,7 +158,12 @@ const HomePage = ({ data }) => {
 
 
 
+          <ScrollAnimation className="signup" animateIn="bounceInUp" delay={3950} initiallyVisible={false} animateOnce={true} animatePreScroll={true} style={{position:'absolute',
+right:'', border:'0px solid yellow', justifyContent:'center', width:'', textAlign:'center', display:'flex', borderRadius:'12px', marginTop:'2rem'}}>
 
+
+  <Newsignup />
+</ScrollAnimation>
 
 
       </div>

@@ -1,10 +1,10 @@
 ---
 template: blog-post
-title: Senior Shoot | with McKenzee
+title: West Coast - I've Landed!
 slug: /second-post
 date: 2021-07-19 11:37
-description: "Your Second blog post description"
-featuredImage: /assets/DSC03822.jpg
+description: "West Coast - I've Landed!"
+featuredImage: /assets/IMG_0556.jpg
 ---
 
 ## Second Blog Post
