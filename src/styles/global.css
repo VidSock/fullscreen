@@ -1628,7 +1628,7 @@ background: rgba(0,0,0,0.6);
              background: #fff;
           }
        
-       footer, .sidebarIconToggle, .back, .taggage, .infomenu, .sidebart, .print, .commentbox, .makeStyles-container-1 {display: none !important;}
+       footer, .sidebarIconToggle, .back, .taggage, .infomenu, .sidebart, .print, .commentbox {display: none !important;}
 
        #logo {
         filter: brightness(0) saturate(100%) !important;
